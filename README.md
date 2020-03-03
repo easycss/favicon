@@ -5,5 +5,5 @@ General use favicon image placeholder
 
 ## https://github.com/easycss/favicon/blob/master/favicon.png
 
-![Easy CSS Favicon](https://github.com/easycss/favicon/blob/master/favicon.png)
+![Easy CSS - Easy CSS Favicon](https://github.com/easycss/favicon/blob/master/favicon.png)
 
